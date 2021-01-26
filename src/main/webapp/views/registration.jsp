@@ -106,9 +106,7 @@ h1{
 <div class="bottom">
  <footer class="bg-dark align-top " >
   <div class="d-flex justify-content-between" >
-    <div class="p-2 text-white">Dr. Jacek Mazurkiewicz</div>
-    <div class="p-2 text-white"> SoftComputing Project Phase - 2 </div>
-    <div class="p-2 text-white">Vatsal Singh (257375)<br>
+    <div class="p-2 text-white">Vatsal Singh<br>
     </div>
       </div>
         
